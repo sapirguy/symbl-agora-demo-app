@@ -19,6 +19,11 @@ To use the Agora example application with Symbl, you'll need to:
 2. Head to the [dashboard](https://platform.symbl.ai/#/home)
 3. Save your App Id and Secret 
 
+### Download git package
+1. git clone https://github.com/symblai/symbl-agora-demo-app
+2. cd symbl-agora-demo-app
+3. Create ".env" file
+
 ### Obtain an Agora App ID
 
 To build and run the sample application, get an App ID:
